@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFKBot",
+    "username": "Orthbit",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "plaridelsmp.aternos.me",
     "port": 18746,
-    "version": "1.20.1",
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
@@ -41,7 +41,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000,
     "periodic-rejoin": {
-      "enabled": false,
+      "enabled": true,
       "min-interval": 20,
       "max-interval": 60
     }
